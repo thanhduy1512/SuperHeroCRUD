@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{ECEF670E-89A1-41F4-AB0C-ABACCD300761}|Default">
+  <MonoDevelop.Ide.ItemProperties.SuperHero2 PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="90" />
+      <File FileName="appsettings.json" Line="3" Column="27" />
+      <File FileName="Data/DataContext.cs" Line="14" Column="1" />
+      <File FileName="Migrations/DataContextModelSnapshot.cs" Line="24" Column="32" />
+      <File FileName="Migrations/20220617095127_CreateInitial.cs" Line="33" Column="6" />
+      <File FileName="Controllers/SuperHeroAPI.cs" Line="28" Column="61" />
+      <File FileName="SuperHero.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20220617105125_Initial.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperHero2" expanded="True">
+            <Node name="SuperHero2" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
